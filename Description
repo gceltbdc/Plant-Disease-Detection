@@ -1,0 +1,32 @@
+# 🌿 Plant Disease Detection using CNN and Deep Learning
+
+A deep learning-based system to automatically detect plant diseases from leaf images using Convolutional Neural Networks (CNNs). This project leverages the PlantVillage dataset and aims to aid farmers and agronomists in early disease diagnosis.
+
+---
+
+## 📌 Project Objective
+
+To build and train a robust CNN model capable of classifying plant leaf images into healthy or diseased categories with high accuracy.
+
+---
+
+## 🧠 Tech Stack
+
+- **Language:** Python
+- **Deep Learning Frameworks:** TensorFlow, Keras
+- **Image Processing:** OpenCV
+- **Data Handling:** NumPy, Pandas
+- **Visualization:** Matplotlib, Seaborn
+- **Environment:** Google Colab / Jupyter Notebook
+
+---
+
+## 📂 Dataset
+
+- **Source:** [PlantVillage on Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
+- **Images:** ~54,000 RGB images
+- **Categories:** 38 classes (e.g., Apple Scab, Corn Rust, Tomato Bacterial Spot, etc.)
+- **Format:** `.jpg` images, organized by class folders
+
+---
+
